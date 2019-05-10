@@ -1,0 +1,9 @@
+<application>
+  <component name="PgyASPluginKeysManager">
+    <TeamManager />
+    <uKey>07207ef51701e81216d71ff526404d7e</uKey>
+    <ApiKey>d620392613216f9fe1532e3bfa8474dd</ApiKey>
+    <ApkFilePath>$USER_HOME$/AndroidStudioProjects/Wallet/app/build/outputs/apk/product/release/app-product-release.apk</ApkFilePath>
+    <name>app</name>
+  </component>
+</application>
